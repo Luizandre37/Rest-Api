@@ -1,0 +1,22 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Teste Rest-Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luizandre37/Rest-Api.git"
+  },
+  "author": "Luiz Andre Maceno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luizandre37/Rest-Api/issues"
+  },
+  "homepage": "https://github.com/Luizandre37/Rest-Api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
